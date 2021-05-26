@@ -1,0 +1,24 @@
+en tant qu'utilisateur je souhaite trouver les meilleus emplacements pour les capteurs
+en tant qu'utilisateur je souhaite trouver les meilleurs capteurs
+en tant qu'utilisateur je souhaite que les capteurs soient chiffrés
+en tant qu'utilisateur je souhaiterai tester les capteurs sur une parcelle test
+en tant qu'utilisateur je souhaite avoir acces a mon site tout le temps
+en tant qu'utilisateur je souhaite savoir où est héberger mon site
+en tant qu'utilisateur je souhaite avoir un site web responsive et lisible
+en tant qu'utilisateur je souhaite connaître toutes les fonctionnalités de mon site
+en tant qu'utilisateur je souhaite pouvoir mettre en avant les fonctionnalités qui me concerne
+en tant qu'utilisateur je souhaite pouvoir agencer mon dashboard comme je le souhaite
+en tant qu'utilisateur je souhaite pouvoir "zoomer" sur des informations précises
+en tant qu'utilisateur je souhaite la meilleure base de donnée possible
+en tant qu'utilisateur je souhaite que mes données soit stockée et retrouvables
+en tant que developpeur je souhaite connaitre l'organisation de ma base de donnée
+en tant qu'utilisateur je souhaiterais avoir une vision des différentes taches du projet
+en tant que developpeur je souhaite que ma base soit accessible
+en tant que developpeur, je veux avoir facilement acces mes données
+en tant que developpeur, je veux savoir la deadline
+en tant que developpeur, je veux savoir comment utiliser l'api
+en tant qu'utilisateur je souhaite , une application intuitive
+en tant qu'utilisateur je souhaite une apllication économique
+en tant qu'utilisateur je souhaite connaitre les avantages et inconvenients du déploiement
+en tant qu'utilisateur je souhaite avoir une restituion simple et efficace des données
+en tant qu'utilisateur je souhaite avoir des données quotidiennes, hebdomadaires , mensuelles
